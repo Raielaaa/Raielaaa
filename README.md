@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 💬 Ask me about **Kotlin, Java, Firebase, MySQL, C, Python**
+- 💬 Ask me about **Kotlin, Java, Firebase, Flutter, Dart, Hive, SQLite, MySQL, C, Python**
 
 - 📫 How to reach me **ralphhonra@gmail.com**
 
